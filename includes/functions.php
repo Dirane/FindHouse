@@ -1,0 +1,1 @@
+<?php //this file is for storing all basic funtions (BASIC functions are funtions that are used frequently)?>
